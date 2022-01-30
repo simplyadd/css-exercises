@@ -1,0 +1,22 @@
+/* styles.css */
+
+p {
+	background-color: rgba(255, 0, 0, 0.3); /* light red RGB */
+	font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+	color: blue;
+	font-size: 36px;
+}
+
+.three {
+	font-size: 24px;
+}
+
+#four {
+	background-color: #00ff0080;  /* light green HEX */
+	font-size: 24px;
+	font-weight: bold;
+}
+
